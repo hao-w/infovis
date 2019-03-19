@@ -1,4 +1,4 @@
-hour, in, out
+hour, var1, var2
 0am, 12, 3
 1am, 4, 23
 2am, 34, 23
